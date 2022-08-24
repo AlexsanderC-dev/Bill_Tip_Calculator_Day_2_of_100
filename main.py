@@ -1,4 +1,5 @@
-# Calculadora simples de valor total da conta do restaurante dividido por um grupo.
+#Portuguese version
+# Calculadora simples de valor total da conta do restaurante dividido por um grupo. 
 # O resultado será arredondado para 2 casas decimais.
 print("Bem vindo(a) a calculadora de gorjetas!\n")
 valor_da_conta = float(input("\nQual o valor total da Conta? R$\n\n"))
