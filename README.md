@@ -1,4 +1,4 @@
-# Project_Day_2_of_100
+# Bill_Tip_Calculator_Day_2_of_100
 
 A ideia desse codigo é gerar calculadora que apresente o valor total da conta de restaurante ou bar de um passeio entre amigos,
 calculando tambem a porcentagem da gorjeta do garçon e dividindo pelo total de pessoas presentes. exietem algumas maquinas de cartão
